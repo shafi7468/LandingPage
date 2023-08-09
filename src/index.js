@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+import 'bootstrap/dist/js/bootstrap.js'
+<script src="https://cdn.skypack.dev/rc-pagination@3.1.15"></script>
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
